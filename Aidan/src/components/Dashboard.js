@@ -62,7 +62,7 @@ console.log(uid)
 var layout1 = {};
 var dashname1 = uid;
 
-var port = "http://localhost:8080";
+var port = "http://192.168.43.119:8080";
 
 // var port = "http://localhost:8080";
 
